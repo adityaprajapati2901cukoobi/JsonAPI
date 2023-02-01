@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Mike Rogoway | The Oregonian/OregonLive",
+            "title": "Intel slashes wages, bonuses after disastrous quarterly results  OregonLive",
+            "description": "The pay cuts will have a profound effect in Oregon, where Intel employs more than 20,000.",
+            "url": "https://www.oregonlive.com/siliconforest/2023/02/intelslasheswagesbonusesafterdisastrousquarterlyresults.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/mtCk1LeP9SZBAMvsNqBLX4takds=/1280x0/smart/cloudfrontuseast1.images.arcpublishing.com/advancelocal/DAZQX4BXAFF7TL3UYVNSCQLHJU.jpg",
+            "publishedAt": "20230201T10:15:00Z",
+            "content": "Intel shocked employees Tuesday evening with word that it is sharply cutting employee compensation after reporting miserable financial results last week.\r\nThe chipmaker said it will slash base pay fo… [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Major central banks set to signal interest rate glide path in crucial week for monetary policy  CNBC",
+            "description": "Major central banks are expected to hike interest rates once again this week, but will be watched for signs of leading in soft economic landings.",
+            "url": "https://www.cnbc.com/2023/02/01/centralbankssettosignalinterestrateglidepathincrucialweek.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107145125166742049720221102t183820z_359868579_rc2udx98odbn_rtrmadp_0_usafed.jpeg?v=1675234050&w=1920&h=1080",
+            "publishedAt": "20230201T06:47:30Z",
+            "content": "A screen displays the Fed rate announcement as a trader works on the floor of the New York Stock Exchange (NYSE), November 2, 2022.\r\nThe U.S. Federal Reserve, European Central Bank and Bank of Englan… [+7423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Britain sets out plans to regulate crypto industry in wake of FTX collapse  CNBC",
+            "description": "In December, a U.K. minister suggested FTX's failure had reinforced the need for urgent crypto regulation. Now, the government has unveiled its plans.",
+            "url": "https://www.cnbc.com/2023/02/01/britainsetsoutplanstoregulatecryptoindustryinwakeofftxcollapse.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071866571675184474096gettyimages124666379370794191.jpeg?v=1675232940&w=1920&h=1080",
+            "publishedAt": "20230201T06:29:00Z",
+            "content": "British Prime Minister Rishi Sunak speaks during a Q&amp;A at Teesside University, on Jan. 30, 2023.\r\nThe U.K. formally laid out plans to regulate the cryptocurrency industry, with the government loo… [+5232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Adani Group stocks rout deepens to $72 billion despite share sale completion  Reuters",
+            "description": "Most Adani Group stocks dropped on Wednesday, extending losses to $72 billion after a shortseller report criticised the conglomerate and despite the group completing a closely watched share sale a day earlier.",
+            "url": "https://www.reuters.com/business/adanigroupstocksresumefallafter25blnsharesalegoesthrough20230201/",
+            "urlToImage": "https://www.reuters.com/resizer/JdNNuQGag_MApH8DGqQNGDS4FY=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/SLC2FQMIZVJZNNCICPG5ESHEU4.jpg",
+            "publishedAt": "20230201T05:10:00Z",
+            "content": "BENGALURU, Feb 1 (Reuters)  Most Adani Group stocks dropped on Wednesday, extending losses to $72 billion after a shortseller report criticised the conglomerate and despite the group completing a c… [+1965 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariellamoon",
+            "title": "Google's experimental ChatGPT rivals include a search bot and a tool called 'Apprentice Bard'  Engadget",
+            "description": "Google employees have been testing several potential ChatGPT competitors as part of the tech giant's bid to launch a response to OpenAI's technology, according to CNBC..",
+            "url": "https://www.engadget.com/googleexperimentalchatgptrivalssearchbotapprenticebard050314110.html",
+            "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202301/32e1b640a1e111edbfdf8a9179330ad5",
+            "publishedAt": "20230201T05:04:11Z",
+            "content": "Google employees have been testing several potential ChatGPT competitors as part of the tech giant's bid to launch a response to OpenAI's technology, according to CNBC. A previous New York Times repo… [+2574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "Marshall Zelinger",
+            "title": "Fed up Xcel Energy customers demand answers from state regulators  9News.com KUSA",
+            "description": "Customers joined this online meeting with the Public Utilities Commission on Tuesday to vent about their energy bills.",
+            "url": "https://www.9news.com/article/news/local/next/nextwithkyleclark/xcelenergycustomersdemandanswerscoloradostateregulatorspuc/73d59035cdee0a43db99d66bc9a7cc24b0",
+            "urlToImage": "https://media.9news.com/assets/KUSA/images/10571081ae3a43fa809efcd3fed3e185/10571081ae3a43fa809efcd3fed3e185_1140x641.jpg",
+            "publishedAt": "20230201T03:25:00Z",
+            "content": "DENVER The Colorado Public Utilities Commission (PUC) held a public hearing about high energy costs on Tuesday.\r\nIt ended up being a listening session, leaving customers complaints unanswered.\r\nHow m… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABCTV"
+            },
+            "author": null,
+            "title": "SoCalGas: Worried about your skyhigh gas bill? Customers urged to voice concerns to California Public Utilities Commission  KABCTV",
+            "description": "As Californians struggle to pay skyhigh natural gas bills, utility access activists are encouraging people to contact state regulators.",
+            "url": "https://abc7.com/socalgasexpensivebillslatestonskyhighpricesnaturalgas/12756255/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12755962_013123kabc5pgasbilloptionsvid.jpg?w=1600",
+            "publishedAt": "20230201T03:24:51Z",
+            "content": "LOS ANGELES (KABC)  As Californians struggle to pay skyhigh natural gas bills, utility access activists are encouraging people to contact state regulators.\r\nMark Toney is the executive director of… [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOODTV.com"
+            },
+            "author": "Byron Tollefson",
+            "title": "Woman’s Kia stolen in Kentwood twice, losing insurance  WOODTV.com",
+            "description": "Two of the nation’s top insurance agencies are reportedly dropping coverage of some Kias and Hyundais as vehicle thefts remain rampant across the country.",
+            "url": "https://www.woodtv.com/news/kentcounty/womanskiastoleninkentwoodtwicelosinginsurance/",
+            "urlToImage": "https://www.woodtv.com/wpcontent/uploads/sites/51/2018/06/generickia101515_38515192_ver1.0.jpg?w=1280",
+            "publishedAt": "20230201T03:08:11Z",
+            "content": "KENTWOOD, Mich. (WOOD) Two of the nation’s top insurance agencies are reportedly dropping coverage of some Kias and Hyundais as vehicle thefts remain rampant across the country.\r\nKent County is no ex… [+6455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Therese Poletti",
+            "title": "Snap stock has lost the one thing it had going for it  MarketWatch",
+            "description": "Revenue growth is gone, and Snapchat’s chances of turning it around are slim while competing with Facebook, Google and TikTok",
+            "url": "https://www.marketwatch.com/story/snapstockhaslosttheonethingithadgoingforit11675220878",
+            "urlToImage": "https://images.mktw.net/im550410/social",
+            "publishedAt": "20230201T03:07:00Z",
+            "content": "Snap Inc.s life as a highgrowth young tech stock is over, and its rivals are about to show how much of that change is about Snapchat.From our recent conversations with our partners, it seems like ad… [+2544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "South Korea posts the worst trade deficit in its history  CNBC",
+            "description": "South Korea saw the worst trade deficit since the agency started compiling data in 1956 and more than the $20.6 billion trade deficit seen in 1996.",
+            "url": "https://www.cnbc.com/2023/02/01/southkoreapoststheworsttradedeficitinitshistory.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071869841675220290175gettyimages12445897032009010122110799424186.jpeg?v=1675220490&w=1920&h=1080",
+            "publishedAt": "20230201T03:01:00Z",
+            "content": "January exports fell $46.3 billion, or 16.6% declining more than expectations for a drop of 11.3%. Imports fell $59 billion, or 2.6%, falling less than forecasts of a 3.6% decline.\r\nThat resulted in … [+1261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "AsiaPacific shares trade higher as investors gear up for Fed rate hike decision  CNBC",
+            "description": "AsiaPacific shares trade higher, taking the lead from Wall Street's gains while investors also looked ahead to some economic data in the region.",
+            "url": "https://www.cnbc.com/2023/02/01/asiapacificsharesfedgdp.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071869331675208514827gettyimages1246591454AA_27012023_1041135.jpeg?v=1675208858&w=1920&h=1080",
+            "publishedAt": "20230201T02:59:00Z",
+            "content": "Investors can expect lackluster results from Apple when it reports this week, according to Barclays.\r\nAnalyst Tim Long reiterated an equal weight rating on Apple, saying the firm dealt with a challen… [+913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Bradford Betz",
+            "title": "ChatGPT maker releases AI detection tool after school districts complain of cheating  Fox Business",
+            "description": "The makers of ChatGPT have introduced a new tool that may help educators distinguish between a text written by AI and a text written by humans.",
+            "url": "https://www.foxbusiness.com/technology/chatgptmakerreleasesaidetectiontoolschooldistrictscomplaincheating",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/ChatGPT.jpg?ve=1&tl=1",
+            "publishedAt": "20230201T02:34:35Z",
+            "content": "OpenAI, the San Franciscobased research firm behind ChatGPT, says it has released a new tool to help distinguish between AIwritten text and humanwritten text. \r\nThe firm announced the release of a… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": "googlenews",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Boeing bids farewell to its final 7478 at Everett plant  The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvYm9laW5nLWFlcm9zcGFjZS9ib2VpbmctYmlkcy1mYXJld2VsbC10by1pdHMtZmluYWwtNzQ3LTgtYXQtZXZlcmV0dC1wbGFudC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "20230201T02:10:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Why Are Rent Prices Increasing in the Bay Area?  NBC Bay Area",
+            "description": "Housing prices have steadily dropped all over the Bay Area over the last few months, but not enough to bring many buyers back into the market. Scott Budman r...",
+            "url": "https://www.youtube.com/watch?v=8ox71mS_kZs",
+            "urlToImage": "https://i.ytimg.com/vi/8ox71mS_kZs/maxresdefault.jpg",
+            "publishedAt": "20230201T01:58:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Tesla records $204M loss from bitcoin in 2022  TechCrunch",
+            "description": "Tesla recorded a $204M impairment loss in 2022 on its Bitcoin holdings. The loss was offset by $64M in profits from Bitcoin trading.",
+            "url": "https://techcrunch.com/2023/01/31/teslarecords204mlossfrombitcoinin2022/",
+            "urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/02/teslabitcoinalt.jpg?resize=1200,675",
+            "publishedAt": "20230201T01:01:40Z",
+            "content": "Tesla recorded a $204 million impairment loss in 2022 on its bitcoin holdings, according to regulatory filings. The loss was offset by $64 million in profits from bitcoin trading, leaving the automak… [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cramer says to watch for buying opportunities in the current bull market  CNBC Television",
+            "description": "Jim Cramer explained why investors should look for opportunities to buy stocks.",
+            "url": "https://www.youtube.com/watch?v=1jttBZIFbHQ",
+            "urlToImage": "https://i.ytimg.com/vi/1jttBZIFbHQ/maxresdefault.jpg",
+            "publishedAt": "20230201T00:38:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Passenger sees his lost wallet fly to different cities thanks to AirTag after airline says it couldn’t find it  9to5Mac",
+            "description": "Apple’s AirTag has certainly been helping a lot of people around the world find their lost items, especially lost luggage at airports. This time, however, a passenger named John Lewis simply forgot his wallet on an American Airlines aircraft. Although the air…",
+            "url": "https://9to5mac.com/2023/01/31/passengerlostwallet35citiesairtag/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2022/04/AppleAirTag.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "20230201T00:33:00Z",
+            "content": "Apple’s AirTag has certainly been helping a lot of people around the world find their lost items, especially lost luggage at airports. This time, however, a passenger named John Lewis simply forgot h… [+2300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Erik Shilling",
+            "title": "The World's Richest Man Is Helping Lotus Go Public  Jalopnik",
+            "description": "A private equity firm linked to numberone rich guy Bernard Arnault is merging with Lotus to make the carmaker a publiclytraded company.",
+            "url": "https://jalopnik.com/worldsrichestmanishelpinglotusgopublic1850055357",
+            "urlToImage": "https://i.kinjaimg.com/gawkermedia/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3547c5a89b85d62850a4e295a647ac8.jpg",
+            "publishedAt": "20230201T00:30:00Z",
+            "content": "Elon Musk is no longer the worlds richest man, according to Forbes. Bernard Arnault, the chairman of LVMH the conglomerate behind luxury brands like Louis Vuitton, Hennessy, Bulgari, and lots of othe… [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bring Me The News"
+            },
+            "author": "Adam Uren",
+            "title": "Price comparison: How much do eggs cost at Twin Cities grocery stores?  Bring Me The News",
+            "description": "Prices have been spiking, so where can you find the cheapest eggs?",
+            "url": "https://bringmethenews.com/minnesotalifestyle/pricecomparisonhowmuchdoeggscostattwincitiesgrocerystores",
+            "urlToImage": "https://bringmethenews.com/.image/t_share/MTk1NTYwNTk5MjEwNTAxMTgx/img_8722.jpg",
+            "publishedAt": "20230131T23:45:19Z",
+            "content": "If you hadn't noticed, eggs are crazy expensive right now, a phenomenon being experienced across the United States.\r\nThe fallout from avian flu in 2022 and ongoing inflationary costs impacting feed a… [+6742 chars]"
+        },
+        {
+            "source": {
+                "id": "thewallstreetjournal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Heard Editors, Robert Wall, Leslie Scism, David MarinoNachison, Hannah Miao, Charley Grant, Gina Heeb, Peter Rudegeair",
+            "title": "Stock Market Today: Dow Gains 200 Points Ahead of Fed Meeting, Earnings  The Wall Street Journal",
+            "description": "Follow The Wall Street Journal's full markets coverage.",
+            "url": "https://www.wsj.com/livecoverage/stockmarketnewstoday01312023",
+            "urlToImage": "https://images.wsj.net/im589547/social",
+            "publishedAt": "20230131T23:32:00Z",
+            "content": null
+        }
+    ]
+}
